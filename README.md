@@ -1,5 +1,5 @@
 # https://burgerbuilderorder.herokuapp.com/
-## _____________________________________________________________________
+## ___________________________________________________________________
 ## steps to run app
 ## open visual studio and open terminal
 ## npm i react
