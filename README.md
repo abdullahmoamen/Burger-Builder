@@ -1,4 +1,4 @@
-# https://burgerbuilderorder.herokuapp.com/
+# https://burgerorderbuilder.herokuapp.com/
 ## ___________________________________________________________________
 ## steps to run app
 ## open visual studio and open terminal
